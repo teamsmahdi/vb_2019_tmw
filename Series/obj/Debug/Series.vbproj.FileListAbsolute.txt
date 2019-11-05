@@ -1,0 +1,26 @@
+C:\Users\Mahdi Chtourou\AppData\Local\Temporary Projects\Series\bin\Debug\Series.exe.config
+C:\Users\Mahdi Chtourou\AppData\Local\Temporary Projects\Series\bin\Debug\Series.exe
+C:\Users\Mahdi Chtourou\AppData\Local\Temporary Projects\Series\bin\Debug\Series.pdb
+C:\Users\Mahdi Chtourou\AppData\Local\Temporary Projects\Series\bin\Debug\Series.xml
+C:\Users\Mahdi Chtourou\AppData\Local\Temporary Projects\Series\obj\Debug\Series.Resources.resources
+C:\Users\Mahdi Chtourou\AppData\Local\Temporary Projects\Series\obj\Debug\Series.vbproj.GenerateResource.Cache
+C:\Users\Mahdi Chtourou\AppData\Local\Temporary Projects\Series\obj\Debug\Series.exe
+C:\Users\Mahdi Chtourou\AppData\Local\Temporary Projects\Series\obj\Debug\Series.xml
+C:\Users\Mahdi Chtourou\AppData\Local\Temporary Projects\Series\obj\Debug\Series.pdb
+C:\Users\Mahdi Chtourou\AppData\Local\Temporary Projects\Series\obj\Debug\Series.EX1S1.resources
+C:\Users\Mahdi Chtourou\AppData\Local\Temporary Projects\Series\obj\Debug\Series.EX2S1.resources
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\Series\bin\Debug\Series.exe.config
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\Series\obj\Debug\Series.exe
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\Series\obj\Debug\Series.xml
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\Series\obj\Debug\Series.pdb
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\Series\obj\Debug\Series.EX1S1.resources
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\Series\obj\Debug\Series.EX2S1.resources
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\Series\obj\Debug\Series.Resources.resources
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\Series\obj\Debug\Series.vbproj.GenerateResource.Cache
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\Series\bin\Debug\Series.exe
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\Series\bin\Debug\Series.pdb
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\Series\bin\Debug\Series.xml
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\vb_2019_tmw\Series\bin\Debug\Series.exe.config
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\vb_2019_tmw\Series\obj\Debug\Series.exe
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\vb_2019_tmw\Series\obj\Debug\Series.xml
+C:\Users\Mahdi Chtourou\Documents\Visual Studio 2012\Projects\2019\Series\vb_2019_tmw\Series\obj\Debug\Series.pdb
